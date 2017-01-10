@@ -1,3 +1,4 @@
+je fais une modif pour voir la différence
  mkdir TP4
   445  cd ~
   446  mkdir TP4
@@ -11,4 +12,4 @@
   454  git config --global alias.lola 'log --graph --decorate --oneline --all'
   455  cd exo1/
   456  git init
-
+je fais une nouvelle modif!!!

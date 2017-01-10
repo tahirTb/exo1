@@ -1,0 +1,14 @@
+ mkdir TP4
+  445  cd ~
+  446  mkdir TP4
+  447  cd TP4/
+  448  mkdir exo1
+  449  git config --global user.name tahirTb
+  450  git config --global user.email bah.tahirou@hotmail.fr
+  451  git config --global user.editor vi
+  452  git config --global user.ui auto
+  453  git config --global alias.lola 
+  454  git config --global alias.lola 'log --graph --decorate --oneline --all'
+  455  cd exo1/
+  456  git init
+
